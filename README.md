@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-      
     <title> Assignment Solution for Module 3 </title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <style>
@@ -50,14 +49,12 @@ h1 {
                      <h1> FOOD, LLC </h1>
                  </div>
              </div>
-             
-             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable- nav" aria-expanded="false">
                  <span class="sr-only"> Toggle navigation </span>
                  <span class="icon-bar"></span>
                  <span class="icon-bar"></span>
                  <span class="icon-bar"></span>
              </button>
-             
              <div id="collapsable-nav" class="collapse navbar-collapse">
                  <ul id="nav-list" class="nav navbar-nav navbar-right">
                      <li id="chicken" class="hidden-md hidden-lg hidden-sm">
@@ -164,8 +161,7 @@ h1 {
                           nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                           nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
-        
-                <div class="col-md-12 col-sm-12 col-xs-12">
+       <div class="col-md-12 col-sm-12 col-xs-12">
                    <h3 id="beef"> BEEF </h3>
                       <p> Lorem ipsum dolr sit amet, consectetur adispiscing elit, sed do eiusmod tempor
                           incididunt ut labore et dolore amgna aliqua. Ut enim ad minim veniam, quis 
@@ -252,8 +248,7 @@ h1 {
                           nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                           nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
-        
-                <div class="col-md-12 col-sm-12 col-xs-12">
+       <div class="col-md-12 col-sm-12 col-xs-12">
                    <h3 id="sushi"> SUSHI </h3>
                       <p> Lorem ipsum dolr sit amet, consectetur adispiscing elit, sed do eiusmod tempor
                           incididunt ut labore et dolore amgna aliqua. Ut enim ad minim veniam, quis 
